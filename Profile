@@ -1,0 +1,15 @@
+Text("الحساب")
+.font(Font.custom("Poppins", size: 10))
+.tracking(0.30)
+.lineSpacing(16)
+.foregroundColor(Color(red: 0.38, green: 0.35, blue: 0.53))
+// ---
+Text("الحلقات")
+.font(Font.custom("Poppins", size: 10))
+.tracking(0.30)
+.lineSpacing(16)
+.foregroundColor(Color(red: 0.38, green: 0.35, blue: 0.53))
+// ---
+Text("الأداء")
+.font(Font.custom("Poppins", size: 10))
+.tracking(0.30)
